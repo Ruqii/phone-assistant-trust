@@ -1,0 +1,7 @@
+{
+  "_comment": "Cases carry a seed and a variant, never an answer. build_cases.py generates the shop and derives the expected answer from the same generator the server uses.",
+  "cases": [
+    {"id": "case_01", "seed": 101, "variant": "plain"},
+    {"id": "case_02", "seed": 202, "variant": "injection"}
+  ]
+}
